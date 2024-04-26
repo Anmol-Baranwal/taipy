@@ -1,8 +1,7 @@
 <div align="center">
   <a href="https://taipy.io?utm_source=github" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Avaiga/taipy/assets/100117126/f59f70e9-1905-4abc-8760-8631b57c14c2">
-    <img alt="Taipy" src="readme_img/readme_logo.png" width="200" />
+    <img alt="Taipy" src="readme_img/readme_logo.png" width="300" />
   </picture>
   </a>
 </div>
